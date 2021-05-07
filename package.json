@@ -1,0 +1,30 @@
+{
+  "name": "@aamodtgroup/block-processors",
+  "version": "0.1.0",
+  "description": "Block processors for Gutenberg blocks in Frontity.",
+  "keywords": [
+    "Frontity",
+    "WordPress",
+    "Reactjs",
+    "react",
+    "gutenberg"
+  ],
+  "homepage": "https://aamodtgroup.com",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aamodtgroup/gutenberg-processors"
+  },
+  "bugs": {
+    "url": "https://github.com/aamodtgroup/gutenberg-processors/issues"
+  },
+  "author": "Aamodt Group",
+  "peerDependencies": {
+    "frontity": "^1.15.0",
+    "@frontity/html2react": "^1.6.2"
+  },
+  "publishConfig": {
+    "cache": "~/.npm",
+    "access": "public"
+  }
+}
